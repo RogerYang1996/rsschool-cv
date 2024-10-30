@@ -1,4 +1,4 @@
 # **Anton Timoshenko**
 ***
 ## **Contacts**
-* GitHub: https://github.com/RogerYang1996
+* **GitHub:** [RogerYang1996](https://github.com/RogerYang1996)
