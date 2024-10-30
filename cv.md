@@ -28,3 +28,16 @@ const solution = (str, ending) => {
     return strArr.slice(-endingArr.length).join("") === endingArr.join("") ? true:false
 }
 ```
+## **Experience**
+* freelance work
+
+## **Education** 
+* **University:** *Altai State Polytechnic University*
+    * business informatics (bachelor)
+* **Courses:**
+    * *Stepik (frontend developer)*
+    * *Hexlet (frontend developer)*
+    * *School 21*
+
+## **English**
+* A2 
