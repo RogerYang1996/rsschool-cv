@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0
+}
+h1 {
+    color: rgb(106, 50, 158);
+    margin: 0;
+}
+h2 {
+    margin: 0;
+    color: rgb(106, 50, 158);
+}
